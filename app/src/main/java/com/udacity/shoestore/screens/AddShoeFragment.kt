@@ -82,7 +82,6 @@ class AddShoeFragment : Fragment() {
                 }
             }
 
-
         }
         return binding.root
     }
